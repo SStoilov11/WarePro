@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "cb6a257c3c76162a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcccbd2148f87cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c701db203addb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISSD/Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a646b7128c0f190d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research roles/Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea3c0032a66cf8ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a650481a02fa95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448fbf9dfdfd5fe3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "925e421f33070391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58bd5a1e5a3c4b48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c41a87410d91459",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88c060ca042fc5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a0d31d508e5405",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research roles/Roles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b3f3387bf22c319",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research roles/Roles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df902f8c77653569",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50b707527df2cde8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research roles/Roles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a646b7128c0f190d",
+  "lastOpenFiles": [
+    "ISSD/Items.md",
+    "Research roles/Roles.md",
+    "Feedbacks/05-03-2024.md",
+    "ISSD"
+  ]
+}

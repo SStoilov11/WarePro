@@ -1,0 +1,16 @@
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\bin\Debug\net8.0-windows\WarePro_ControlApplication.exe
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\bin\Debug\net8.0-windows\WarePro_ControlApplication.deps.json
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\bin\Debug\net8.0-windows\WarePro_ControlApplication.runtimeconfig.json
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\bin\Debug\net8.0-windows\WarePro_ControlApplication.dll
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\bin\Debug\net8.0-windows\WarePro_ControlApplication.pdb
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.ControlApplication.resources
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.csproj.GenerateResource.cache
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.AssemblyInfoInputs.cache
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.AssemblyInfo.cs
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.csproj.CoreCompileInputs.cache
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.dll
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\refint\WarePro_ControlApplication.dll
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.pdb
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\WarePro_ControlApplication.genruntimeconfig.cache
+C:\GitHub\Project\MBT\ESP_ControlApplication\WarePro_ControlApplication\obj\Debug\net8.0-windows\ref\WarePro_ControlApplication.dll
